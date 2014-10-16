@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acu:home|Door43 (acu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acu|d43-acu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acu/archive/master.zip|d43-acu.zip]]
+
+**Recent Changes**
+{{changes>ns = acu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acu|Ethnologue data]]
+
